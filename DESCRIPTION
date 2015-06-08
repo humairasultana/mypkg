@@ -1,0 +1,9 @@
+Package: mypkg
+Type: Package
+Title: Calculate mean 
+Version: 1.0
+Date: 2015-06-08
+Author: sonia
+Maintainer: sonia <sonirustat10@gmail.com>
+Description: Calculate mean
+License: GPL-2
